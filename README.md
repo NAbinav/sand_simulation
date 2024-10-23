@@ -16,6 +16,7 @@ A simple **Falling Objects Simulation** built with **Pygame** where colorful squ
 ## Running the game
 - Clone or download the repository.
 - Navigate to the project directory
+- Run the script
   ``` bash
   python falling_objects.py
 ## License
