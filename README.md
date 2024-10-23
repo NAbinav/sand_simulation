@@ -13,9 +13,9 @@ A simple **Falling Objects Simulation** built with **Pygame** where colorful squ
   ```bash
   pip install pygame
 
-**RUNNING THE GAME**
+## RUNNING THE GAME
   ```bash
   pip install pygame
-
-**License**
+```
+## License
 This project is licensed under the MIT License. Feel free to use and modify
